@@ -7,7 +7,7 @@
  * Author URI: http://www.paytriot.co.uk/
  */
 
-namespace P3\SDK;
+namespace Paytriot\SDK;
 
 use \RuntimeException;
 use \InvalidArgumentException;
