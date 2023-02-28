@@ -2,6 +2,9 @@
 
 /**
  * Class to communicate with the Payment Gateway
+ *
+ * Author: Paytriot
+ * Author URI: http://www.paytriot.co.uk/
  */
 
 namespace P3\SDK;
