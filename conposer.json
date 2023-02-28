@@ -1,0 +1,16 @@
+{
+  "name": "wlady/paytriot-gateway",
+  "type": "library",
+  "description": "Paytriot Payments Gateway",
+  "keywords": ["payment", "gateway", "paytriot"],
+  "license": "MIT",
+  "authors": [],
+  "require": {
+    "php": ">=7.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "P3\\SDK\\": "src/"
+    }
+  }
+}
