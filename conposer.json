@@ -2,7 +2,7 @@
   "name": "wlady/paytriot-gateway",
   "type": "library",
   "description": "Paytriot Payments Gateway",
-  "keywords": ["payment", "gateway", "paytriot"],
+  "keywords": ["paytriot", "payment", "gateway"],
   "license": "MIT",
   "authors": [],
   "require": {
